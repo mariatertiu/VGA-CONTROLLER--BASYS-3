@@ -1,8 +1,6 @@
 # VGA-CONTROLLER--BASYS-3
 # Full HD VGA Display Controller in Verilog (1920x1080 @ 60Hz)
 
-# Full HD VGA Display Controller in Verilog (1920x1080 @ 60Hz)
-
 This project implements a Verilog-based VGA display controller capable of rendering graphics at Full HD resolution (1920x1080) with a 60 Hz refresh rate. The design is developed for the Digilent Basys3 FPGA board and demonstrates real-time interaction through user-controlled movement of a circle across the screen.
 
 ## Overview
